@@ -29,6 +29,8 @@ project initialization empowers users to reduce time spent conceptualizing ideas
 spend more time executing actionable tasks, enhancing productivity and project success
 rates.
 
+Read more about our design and architectural decisions in our [Design Documentation](https://github.com/Sync-Space-49/.github/files/13719986/SyncSpace_Design_Documentation.pdf).
+
 ## How do I check it out? 
 
 We have hosted a free instance of our work on Google Cloud for people to look at. 
