@@ -9,6 +9,8 @@ _Project management that's out of this world!_
 **TL:DR;** SyncSpace is a Kanban board that has an integration with an AI model, allowing you to
 AI generate cards and boards based on your needs. 
 
+https://github.com/Sync-Space-49/.github/assets/70990184/5be56f35-05bb-4a45-84bc-9911b0a206d8
+
 #### Full Explanation
 SyncSpace is a project management solution focused on simplifying the complex process
 of initiating and overseeing projects. It operates as a centralized platform, providing tools
